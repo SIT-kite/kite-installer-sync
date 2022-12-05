@@ -1,0 +1,5 @@
+username: ''
+password: ''
+download_dir: ./tmp/
+repository: SIT-kite/kite-app
+proxies: {}
